@@ -1,0 +1,10 @@
+[package]
+name = "sentinel/sentinel"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+description = "Server-authoritative state replication with delta-compressed patches for Roblox"
+license = "MIT"
+authors = ["kzui"]
+
+[dependencies]
